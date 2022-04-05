@@ -1,0 +1,27 @@
+.app__header{
+    background-color: var(--color-black);
+}
+
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 117px;
+    font-size: 90px;
+    margin-left: 10px;
+}
+
+.p__opensans{
+    margin-left: 10px;
+}
+
+.custom__button{
+    padding-left: 20px;
+
+}
+
+.app__wrapper_info{
+    padding-left: 10px;
+
+}
